@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sono uno studente dell'università Sapienza di Roma!<br>Attualmente, sono al 2o anno di una laurea triennale in informatica!<br>In questo GitHub troverete alcuni miei lavori accademici e non, spero li possiate trovare interessanti!<br>Sono presenti anche alcuni esercizi svolti da me: FATE ATTENZIONE e controllate sempre le mie soluzioni, che potrebbero essere sbagliate.<br>So programmare in Python, C, Java, Assembly (Risc-V). Inoltre, sono appassionato di applicazioni matematiche per l'informatica!
+Sono uno studente dell'università Sapienza di Roma!<br>Attualmente, sono al 2o anno di una laurea triennale in informatica!<br>In questo GitHub troverete alcuni miei lavori accademici e non, spero li possiate trovare interessanti!<br>Sono presenti anche alcuni esercizi svolti da me: FATE ATTENZIONE e controllate sempre le mie soluzioni, che potrebbero essere sbagliate.<br> Inoltre, sono appassionato di applicazioni matematiche per l'informatica!
 
 
 ## 🌐 Socials:
